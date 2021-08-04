@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Christine1043.github.io</id>
     <title>小A的学习小站</title>
-    <updated>2021-08-04T08:46:21.704Z</updated>
+    <updated>2021-08-04T13:11:01.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Christine1043.github.io"/>
     <link rel="self" href="https://Christine1043.github.io/atom.xml"/>
@@ -10,12 +10,37 @@
     <icon>https://Christine1043.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小A的学习小站</rights>
     <entry>
-        <title type="html"><![CDATA[《沟通的方法》脱不花]]></title>
+        <title type="html"><![CDATA[“双减”助力教育良好生态]]></title>
+        <id>https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/</id>
+        <link href="https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/">
+        </link>
+        <updated>2021-08-04T11:37:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>近日，政府印发了<a href="http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107t20210724_546576.html">《关于进一步减轻义务教育阶段学生作业负担和校外培训机构负担的意见》</a>(简称“双减”文件)，人民日报对此发表了一篇评论文章。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>近日，政府印发了<a href="http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202107t20210724_546576.html">《关于进一步减轻义务教育阶段学生作业负担和校外培训机构负担的意见》</a>(简称“双减”文件)，人民日报对此发表了一篇评论文章。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://Christine1043.github.io/post-images/1628077397095.jpg" alt="" loading="lazy"></figure>
+<p><strong>题外话</strong><br>
+政府出重拳整顿K12在线教育行业，其实K12行业的巨头们已经在其他赛道上开始发力了。</p>
+<ul>
+<li>成人教育赛道：计算机、会计等职业教育；外语教育；公务员考试；司法考试等资格考试培训</li>
+<li>智能硬件：网易有道词典笔、作业帮错题打印机等</li>
+<li>开设民办幼儿园：字节跳动下的瓜瓜龙启蒙<br>
+资料来源：<a href="https://m.igetget.com/share/course/article?id=oWZdeMxN5Y4DJl1POvXjB62zrR8Obl">得到头条</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《沟通的方法》]]></title>
         <id>https://Christine1043.github.io/post/lesslessgou-tong-de-fang-fa-greatergreater/</id>
         <link href="https://Christine1043.github.io/post/lesslessgou-tong-de-fang-fa-greatergreater/">
         </link>
         <updated>2021-08-04T08:03:02.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://Christine1043.github.io/post-images/1628064211260.JPG" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<p>得到APP脱不花老师，一位职业的沟通者，捧出在书中捧了一份老实人的“沟通手册”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>得到APP脱不花老师，一位职业的沟通者，捧出在书中捧了一份老实人的“沟通手册”。</p>
+<!-- more -->
+<p><img src="https://Christine1043.github.io/post-images/1628064211260.JPG" alt="" loading="lazy"><br>
 <img src="https://Christine1043.github.io/post-images/1628064228809.jpg" alt="" loading="lazy"></p>
 <p>在网上看到了制作精美的知识卡片：<a href="https://www.jianshu.com/p/02334c64b1ca">https://www.jianshu.com/p/02334c64b1ca</a></p>
 ]]></content>
