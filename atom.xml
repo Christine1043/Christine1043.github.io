@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Christine1043.github.io</id>
-    <title>小A的学习小站</title>
-    <updated>2021-08-04T13:24:22.181Z</updated>
+    <title>Christine的学习小站</title>
+    <updated>2021-08-04T13:28:54.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Christine1043.github.io"/>
     <link rel="self" href="https://Christine1043.github.io/atom.xml"/>
     <logo>https://Christine1043.github.io/images/avatar.png</logo>
     <icon>https://Christine1043.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 小A的学习小站</rights>
+    <rights>All rights reserved 2021, Christine的学习小站</rights>
     <entry>
         <title type="html"><![CDATA[“双减”助力教育良好生态]]></title>
         <id>https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/</id>
