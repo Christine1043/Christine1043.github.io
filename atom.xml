@@ -2,13 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Christine1043.github.io</id>
     <title>Christine的学习小站</title>
-    <updated>2021-08-04T13:45:19.525Z</updated>
+    <updated>2021-08-05T11:49:04.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Christine1043.github.io"/>
     <link rel="self" href="https://Christine1043.github.io/atom.xml"/>
     <logo>https://Christine1043.github.io/images/avatar.png</logo>
     <icon>https://Christine1043.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Christine的学习小站</rights>
+    <entry>
+        <title type="html"><![CDATA[The Economist：Dashed hopes]]></title>
+        <id>https://Christine1043.github.io/post/jing-ji-xue-ren-dashed-hopes/</id>
+        <link href="https://Christine1043.github.io/post/jing-ji-xue-ren-dashed-hopes/">
+        </link>
+        <updated>2021-08-05T11:34:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>The Economist. 2021-07-31. Leaders. Page7</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>The Economist. 2021-07-31. Leaders. Page7</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://Christine1043.github.io/post-images/1628163308216.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[庆祝中国共产党成立100周年讲话]]></title>
+        <id>https://Christine1043.github.io/post/qing-zhu-zhong-guo-gong-chan-dang-cheng-li-100-zhou-nian-jiang-hua/</id>
+        <link href="https://Christine1043.github.io/post/qing-zhu-zhong-guo-gong-chan-dang-cheng-li-100-zhou-nian-jiang-hua/">
+        </link>
+        <updated>2021-08-05T11:25:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>学习习大大讲话原文。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>学习习大大讲话原文。</p>
+<!-- more -->
+<p><img src="https://Christine1043.github.io/post-images/1628162858501.jpg" alt="" loading="lazy"><br>
+<img src="https://Christine1043.github.io/post-images/1628163008475.jpg" alt="" loading="lazy"><br>
+<img src="https://Christine1043.github.io/post-images/1628163016210.jpg" alt="" loading="lazy"><br>
+<img src="https://Christine1043.github.io/post-images/1628163118590.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“双减”助力教育良好生态]]></title>
         <id>https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/</id>
