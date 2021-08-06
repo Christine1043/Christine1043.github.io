@@ -2,13 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Christine1043.github.io</id>
     <title>Christine的学习小站</title>
-    <updated>2021-08-05T11:50:43.657Z</updated>
+    <updated>2021-08-06T14:31:05.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Christine1043.github.io"/>
     <link rel="self" href="https://Christine1043.github.io/atom.xml"/>
     <logo>https://Christine1043.github.io/images/avatar.png</logo>
     <icon>https://Christine1043.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Christine的学习小站</rights>
+    <entry>
+        <title type="html"><![CDATA[The Economist: Get poor quickly]]></title>
+        <id>https://Christine1043.github.io/post/the-economist-get-poor-quickly/</id>
+        <link href="https://Christine1043.github.io/post/the-economist-get-poor-quickly/">
+        </link>
+        <updated>2021-08-06T14:20:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>The Economist. 2021-07-31. Leaders. Page8</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>The Economist. 2021-07-31. Leaders. Page8</p>
+<!-- more -->
+<p>国外经济媒体对中国整顿教育辅导机构的评论。<br>
+<img src="https://Christine1043.github.io/post-images/1628259777864.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人民时评：为民族复兴创造良好人口环境]]></title>
+        <id>https://Christine1043.github.io/post/ren-min-shi-ping-wei-min-zu-fu-xing-chuang-zao-liang-hao-ren-kou-huan-jing/</id>
+        <link href="https://Christine1043.github.io/post/ren-min-shi-ping-wei-min-zu-fu-xing-chuang-zao-liang-hao-ren-kou-huan-jing/">
+        </link>
+        <updated>2021-08-06T14:06:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>《中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定》发布，人民日报就此发表评论文章。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定》发布，人民日报就此发表评论文章。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://Christine1043.github.io/post-images/1628258975133.jpg" alt="" loading="lazy"></figure>
+<p>早在1980年，中共中央就人口政策发表过一篇公开信<a href="https://weibo.com/ttarticle/p/show?id=2309404661195956420887">《中共中央关于控制我国人口增长问题致全体共产党员、共青团员的公开信》</a>，其中提到“到三十年以后，目前特别紧张的人口增长问题就可以缓和，也就可以采取不同的人口政策了。”说明开放三孩政策其实是国家长期人口政策的落实，并不是短期的应急。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economist：Dashed hopes]]></title>
         <id>https://Christine1043.github.io/post/jing-ji-xue-ren-dashed-hopes/</id>
@@ -39,7 +67,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“双减”助力教育良好生态]]></title>
+        <title type="html"><![CDATA[人民时评：“双减”助力教育良好生态]]></title>
         <id>https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/</id>
         <link href="https://Christine1043.github.io/post/shuang-jian-zhu-li-jiao-yu-liang-hao-sheng-tai/">
         </link>
